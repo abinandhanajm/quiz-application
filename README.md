@@ -1,2 +1,2 @@
-# QUIZ APPLICATION
+# Quiz-application
 InternID: CITS4633
